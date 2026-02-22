@@ -1,10 +1,3 @@
-/*
- * @-*- Coding: utf-8 -*-
- * @Date: 2026-02-22 04:03:48
- * @Author: Jim
- * @LastEditTime: 2026-02-23 00:40:43
- * @LastEditors: Do not edit
- */
 
 var crypto_js = require("crypto-js")
 

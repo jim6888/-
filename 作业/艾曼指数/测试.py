@@ -1,15 +1,5 @@
-'''
--*- Coding: utf-8 -*-
-Date: 2026-02-21 20:13:16
-Author: Jim
-LastEditTime: 2026-02-22 23:45:42
-LastEditors: Do not edit
-'''
-
 import requests
 import execjs
-
-
 # cookies = {
 #     "mobile_iindex_uuid": "d9b84a06-cf7e-59c6-8e43-2508e8229444",
 #     "Hm_lvt_2873e2b0bdd5404c734992cd3ae7253f": "1771033823,1771510388,1771651673,1771672664",

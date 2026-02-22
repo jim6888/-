@@ -1,6 +1,4 @@
-
 var crypto_js = require("crypto-js")
-
 // 返回解密
 function decrypt_data(t) {
     var e = crypto_js.enc.Utf8.parse('EB444973714E4A40876CE66BE45D5930')

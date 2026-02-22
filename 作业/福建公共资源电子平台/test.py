@@ -1,10 +1,3 @@
-'''
--*- Coding: utf-8 -*-
-Date: 2026-02-22 03:57:25
-Author: Jim
-LastEditTime: 2026-02-22 03:57:38
-LastEditors: Do not edit
-'''
 import requests
 import json
 import time

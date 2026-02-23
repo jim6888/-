@@ -19,17 +19,7 @@ headers = {
     "sec-ch-ua-platform": "\"Windows\""
 }
 cookies = {
-    "deviceid": "435b2270bc9ec351f5dc89faa1d8156",
-    "_ga": "GA1.1.825946130.1771030158",
-    "token": "a96a4cefad9f74ed7c7afef662c59b04edbd733b95792a5ade6da456f2312510fdb3f467d7c5fef179514d9a4a96c006f5ccb8a70b2fb347f3cb7fee1e7ba36a2ba7fe35d6674b53522e9c198e668fa7",
-    "Hm_lvt_4b46d92b8c2be1622e347873de8ada00": "1771780340",
-    "Hm_lvt_c420cc498e4250baa6114afe2947045e": "1771780340",
-    "Hm_lvt_e1382854e68f4d69f837bb54a6d1e22f": "1771780340",
-    "Qs_lvt_404253": "1771030154%2C1771254688%2C1771779254%2C1771832782%2C1771861765",
-    "Qs_pv_404253": "3061402436045860400%2C3901205203587188000%2C2715232987739528000%2C3915605962635997700%2C2198456116981729300",
-    "_ga_GVCWL6PNZ2": "GS2.1.s1771886495$o12$g1$t1771886512$j43$l0$h0",
-    "_uetsid": "1f7e8b80100f11f192d5f7e109203af7|7qnh6w|2|g3t|0|2244",
-    "_uetvid": "fe4ef130093e11f1b39b276a5e13532b|1cm4d1l|1771886427044|1|1|bat.bing.com/p/conversions/c/b"
+   #需要添加cookies
 }
 encrypt_url = 'https://app.diandian.com/'
 url = "https://api.diandian.com/pc/app/v2/user/favorite"

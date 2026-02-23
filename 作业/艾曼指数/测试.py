@@ -1,12 +1,5 @@
 import requests
 import execjs
-# cookies = {
-#     "mobile_iindex_uuid": "d9b84a06-cf7e-59c6-8e43-2508e8229444",
-#     "Hm_lvt_2873e2b0bdd5404c734992cd3ae7253f": "1771033823,1771510388,1771651673,1771672664",
-#     "HMACCOUNT": "FB9578796AFC166B",
-#     "Hm_lpvt_2873e2b0bdd5404c734992cd3ae7253f": "1771676711"
-# }
-
 exj_obj= execjs.compile(open('./艾曼指数.js', 'r', encoding='utf-8').read())
 while True:
     print('请输入要查询的关键字,输入exit退出:')
